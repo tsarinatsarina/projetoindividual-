@@ -1,0 +1,159 @@
+head {
+    font-family: 'Luxurious Script', cursive;
+    font-family: 'The Nautigal', cursive;
+}
+
+body {
+    background-image: url(img/gifwallpaper.gif);
+    width: fit-content;
+    background-color: white;
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 30%;
+    padding-right: 30%;
+    border: 30px bold;
+}
+
+h1 {
+    font-family: 'Luxurious Script', cursive;
+    font-family: 'The Nautigal', cursive;
+    align-items: center;
+    font-size: 120px;
+    color:rgb(21, 2, 2);
+    text-shadow: 2px 2px rgb(200, 210, 219);
+    padding: 20px;
+    padding-right: 22px;
+    margin: 30px auto;
+    width: fit-content;
+}
+
+#navigation {
+    flex-direction: row;
+}
+
+.buttons {
+    padding-bottom: 2px;
+    padding-top: 2px;
+    color: azure;
+    box-shadow: 
+}
+
+.button1 {
+    font-family: 'Luxurious Script', cursive;
+    font-family: 'The Nautigal', cursive;
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 12%;
+}
+
+.button1:hover {
+    box-shadow: 
+    0 0 2.5px 2.5px #fff,  
+    0 0 2.5px 2.5px #f0f,
+    0 0 2.5px 2.5px #0ff;
+
+}
+
+.button2 {
+    font-family: 'Luxurious Script', cursive;
+    font-family: 'The Nautigal', cursive;
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 12%;
+}
+
+.button2:hover {
+    box-shadow: 
+    0 0 2.5px 2.5px #fff,  
+    0 0 2.5px 2.5px #f0f,
+    0 0 2.5px 2.5px #0ff;
+
+}
+
+
+.button3 {
+    font-family: 'Luxurious Script', cursive;
+    font-family: 'The Nautigal', cursive;
+    font-size: large;
+    color: rgb(50, 26, 26);
+    width: 80px;
+    height: 41px;
+    font-size: 20px;
+    border-radius: 12%;
+}
+
+.button3:hover {
+    box-shadow: 
+    0 0 2.5px 2.5px #fff,  
+    0 0 2.5px 2.5px #f0f,
+    0 0 2.5px 2.5px #0ff;
+}
+
+.divider {
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+
+.emailMe {
+    width: 120px;
+    height: auto;
+}
+
+#section1 {
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    padding-right: 8px;
+    background-color: rgb(200, 210, 219);
+    opacity: 0.7;
+    text-align: justify;
+    border: 2px solid black;
+    border-radius: 2%;
+}
+
+#section2 {
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    padding-right: 8px;
+    background-color: rgb(200, 210, 219);
+    opacity: 0.7;
+    border: 2px solid black;
+    border-radius: 2%;
+}
+
+.imgMalena {
+    padding-left: 15%;
+    width: 400px;
+    height: auto;
+    border-radius: 6px;
+}
+
+.lname {
+    height: 100px;
+    width: auto;
+}
+
+.lastText {
+    color: rgb(200, 210, 219);
+    font-size: 38px bold;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
